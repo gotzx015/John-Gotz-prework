@@ -1,0 +1,31 @@
+body {
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color: rgb(143, 185, 224);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+  background-color: rgb(143, 185, 224);
+}
+
+.navbar {
+  padding-left: .1%;
+  padding-top: 0%;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 18px;
+}
