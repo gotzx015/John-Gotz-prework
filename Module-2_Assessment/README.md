@@ -1,0 +1,6 @@
+# John-Gotz-prework
+Module-2 Assessment
+
+In this project the user plays a word guessing game where the theme is different dog breeds. The user can press any key to get started and instantly the game starts and their guess is put through the code. The game displays blank spaces for the amount of characters in the correct word. There is a space that shows the user what letters they have already guessed. Additionally, if they guess a correct letter it will take the place of the "_" character. If the user correctly guesses the word then the win total goes up and the game resets. If they use all their guesses, 12, the lose total goes up and the game resets.
+
+To improve this game I would want to figure out how to add blank spaces in the correct word. Currently, all the words don't display spaces. For example, Golden Retriever is stored as "goldenretriever". If I added the space in the array then the user would have to enter space bar as a guess to show the space. I would also like to add an image and correct word displayed to the right when the user finishes a game. Other improvements could be to not allow a user to guess a letter more than once.
